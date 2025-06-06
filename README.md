@@ -33,7 +33,7 @@ This project was completed under the guidance of my academic supervisor:
 ## 🌐 Live Demo
 
 Check out the live version of this template:  
-👉 [View Demo](https://mmehrab-pz.github.io/Web-Tempalte-1/)
+👉 [View Demo](https://mmehrab-pz.github.io/Web-Template-1/)
 
 ## 🔗 Connect with Me
 
