@@ -16,7 +16,7 @@ A modern and responsive website template built using **HTML**, **CSS**, **SASS**
 
 ## ✨ Overview
 
-**Web-Template-18** is a clean website template designed for general use, including landing pages, corporate websites, portfolios, or personal projects. It has been developed entirely from scratch based on an existing design from a reference website.
+**Web-Template-1** is a clean website template designed for general use, including landing pages, corporate websites, portfolios, or personal projects. It has been developed entirely from scratch based on an existing design from a reference website.
 
 ## 👨‍🏫 Supervisor
 
